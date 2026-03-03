@@ -97,4 +97,3 @@ public class Browser implements ChromeDevtoolsDomain {
     }
 }
 
-// Made with Bob
